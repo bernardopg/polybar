@@ -1,0 +1,8 @@
+{
+  "mediaPreview.video.autoPlay": true,
+  "mediaPreview.video.loop": true,
+  "python.createEnvironment.contentButton": "show",
+  "python.globalModuleInstallation": false,
+  "tailwindcss-intellisense.trace.server": "verbose",
+  "tailwindCSS.emmetCompletions": true
+}
