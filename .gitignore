@@ -1,0 +1,32 @@
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*~
+
+# Logs
+logs/
+*.log
+
+# Python cache if any helper scripts are Python
+__pycache__/
+*.pyc
+
+# Node/npm if used for tooling
+node_modules/
+
+# VS Code
+.vscode/
+
+# Images cache or heavy exports
+*.xcf
+*.psd
+
+# Local env/secrets (none expected, but safe)
+.env
+.env.*
+
+# Polybar build artifacts (not typical here)
+/build/
